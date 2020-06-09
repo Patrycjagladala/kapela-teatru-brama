@@ -10,4 +10,4 @@
 
 - [Google Drive](https://drive.google.com/drive/folders/1qSuheIRy4twvhkpNUWgLRL2GCbOLSLjl?usp=sharing) do folderu google z opisem, filmem i zdjęciami
 - [Figma](https://www.figma.com/file/KAT4KXxFGuDFFObQT3dNAN/Untitled?node-id=0%3A1) do projektu w Figmie
-- [Kapela Teatru Brama](https://Patrycjagladala.github.io/kapela-teatru-brama/)
+- [Kapela Teatru Brama](https://patrycjagladala.github.io/kapela-teatru-brama/index.html)
